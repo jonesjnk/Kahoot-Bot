@@ -12,7 +12,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jones8683/Kahoot-Bot
+git clone https://github.com/jonesjnk/Kahoot-Bot
 ```
 
 2. Install dependencies
